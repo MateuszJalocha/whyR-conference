@@ -28,7 +28,7 @@ The best results were obtained by the Random Forest method, but the XGBoost mode
 
 <p align="center">
 
-<img align = "center" src ="Images/results.png" /> 
+<img align = "center" src ="Images/models_scores.png" /> 
 <img align = "center" src="Images/whyR_pricesPredictions.png" />
 
 </p>
