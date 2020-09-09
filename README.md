@@ -45,5 +45,5 @@ The best results were obtained by the Random Forest method, but the XGBoost mode
 
 ## Contributors
 
-- **Mateusz Jałocha** (mat.jalocha@gmail.com, https://www.linkedin.com/in/mateusz-jałocha-8942701b6/)
+- **Mateusz Jałocha** (mat.jalocha@gmail.com, https://www.linkedin.com/in/mateusz-jałocha/)
 
