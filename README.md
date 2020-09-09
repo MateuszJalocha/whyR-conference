@@ -3,10 +3,7 @@
 After the data was collected to my undergraduated thesis i realized that there is a possibility to check how location affects rental price of apartment. In the next step informations about objects and areas surrounding the dwellings were extracted from google API and OpenSteetMaps. All these informations made it possible to carry out the study on the most accurate forecasting rental prices using geospatial variables and the distances between apartments and selected objects.
 
 <p align="center">
-
-<img align = "center" src ="Images/whyR_additionalObjects.png" /> 
-<img align = "center" src="Images/whyR_pricesPredictions.png" />
-
+<img align = "center" src ="Images/whyR_additionalObjects.png" />
 </p>
 
 ## Data
@@ -25,6 +22,16 @@ Two approaches to prediction were used in the study, in the first case only one 
 - **Random Forest**
 - **XGBoost**
 
+## Conclusions
+
+The best results were obtained by the Random Forest method, but the XGBoost models did not achieve much worse results. In case of error checking on test data better result was achived for created separated models for all districts. But when result was checked on test data, one model has proved to be more effective. Below you can see errors expressed in PLN and how predicted values are shown on maps.
+
+<p align="center">
+
+<img align = "center" src ="Images/results.png" /> 
+<img align = "center" src="Images/whyR_pricesPredictions.png" />
+
+</p>
 
 ## Main libraries
 
