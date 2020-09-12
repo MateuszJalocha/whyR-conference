@@ -42,7 +42,7 @@ The best results were obtained by the Random Forest method, but the XGBoost mode
 
 - **ggmap**, **osmdata**, **geosphere**, **googleway**, **gmapsdistance** - Coordinates of objects
 
-- **rvest**, **rlang**, **RCurl** - Webscrapping
+- **rvest**, **rlang**, **RCurl** - Web scraping
 
 - **tidyverse**, **dbplyr**, **dplyr**, **XML**, **stringr**, **caTools** - Generally useful libraries
 
