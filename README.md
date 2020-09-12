@@ -16,7 +16,7 @@ From the objects surrounding the apartments, the following have been taken into 
 
 Two approaches to prediction were used in the study, in the first case only one model was created based on all observations.  In the second case, separate models were created for each of the districts, based on observations located only in these districts and then predictions were combined. Methods used to create models are:
 
-- **Multiple regression** - the best model was selected using Akaike Information Criterion.
+- **Multiple Regression** - the best model was selected using Akaike Information Criterion.
 - **Bagging**
 - **GBM**
 - **Random Forest**
@@ -41,7 +41,7 @@ The best results were obtained by the Random Forest method, but the XGBoost mode
 
 - **rvest**, **rlang**, **RCurl** - Webscrapping
 
-- **tidyverse**, **dbplyr**, **dplyr**, **XML*, **stringr**, **caTools** - Generally useful libraries
+- **tidyverse**, **dbplyr**, **dplyr**, **XML**, **stringr**, **caTools** - Generally useful libraries
 
 ## Contributors
 
