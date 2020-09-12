@@ -24,7 +24,7 @@ Two approaches to prediction were used in the study, in the first case only one 
 
 ## Conclusions
 
-The best results were obtained by the Random Forest method, but the XGBoost models did not achieve much worse results. In case of error checking on test data better result was achived for created separated models for all districts. But when result was checked on test data, one model has proved to be more effective. Below you can see errors expressed in PLN and how predicted values are shown on maps.
+The best results were obtained by the Random Forest method, but the XGBoost models did not achieve much worse results. In case of error checking on the test data better result was achived by separated models approach. But when result was checked on the test data, one model has proved to be more effective. Below you can see errors expressed in PLN and how predicted values are shown on maps.
 
 <p align="center">
 
