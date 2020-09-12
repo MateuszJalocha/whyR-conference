@@ -1,6 +1,8 @@
-# Forecasting Rental Prices in Kraków
+# Forecasting Rental Prices in Cracow
 
-After the data was collected to my undergraduated thesis i realized that there is a possibility to check how location affects rental price of apartment. In the next step informations about objects and areas surrounding the dwellings were extracted from google API and OpenSteetMaps. All these informations made it possible to carry out the study on the most accurate forecasting rental prices using geospatial variables and the distances between apartments and selected objects.
+After the data was collected to my undergraduated thesis i realized that there is a possibility to check how location affects rental price of apartment. In the next step informations about objects and areas surrounding the dwellings were extracted from google API and OpenSteetMaps. All these informations made it possible to carry out the study on the most accurate forecasting rental prices using spatial variables and the distances between apartments and selected objects.
+
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 <p align="center">
 <img align = "center" src ="Images/whyR_additionalObjects.png" />
@@ -45,5 +47,5 @@ The best results were obtained by the Random Forest method, but the XGBoost mode
 
 ## Contributors
 
-- **Mateusz Jałocha** (mat.jalocha@gmail.com, https://www.linkedin.com/in/mateusz-jałocha/)
+- **Mateusz Jałocha** (mat.jalocha@gmail.com, https://www.linkedin.com/in/mateusz-jalocha/)
 
